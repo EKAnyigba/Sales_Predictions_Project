@@ -6,8 +6,9 @@ The first image shows the total sales based on the establishment of the outlet. 
 
 This second plot shots the volume of sale of regular vrs low fat dairy products ![alt text](sales2.png)
 
-The last plot shows that there is a lot section of the data that is out of the norm for sales volume for both regular and low fat dairy items ![alt text](sales3.png)
+This correlation plot shows the features that are most important to the model. The correlation plot shows that of all the features that were used in the model, the most important were price of items, location of the store, item weight and item visibility ![alt text](sales3.png)
 
-# Linear regression models using SKlearn KNeighbours and SKlearn Linear regression
-Sales_prediction_Machine LearningKNN 2.ipynb - used KNeighbours to build the regression model with a tunable K factor
-Sales_prediction_Machine Learning Linear 2.ipynb  - Used the linear regression model to predict sales volume
+The linear regression model was able to predict the sale volume with a 50% accuracy whilst the randomforest tree predicted with 47% accuracy. Both scores were R squared regression matrices which which predicts the proportion of the variation in sales that is explained by features.
+
+This last 2 plots show the features that are most important to the models used. ![alt text](sales4.png) ![alt text](sales5.png)
+
