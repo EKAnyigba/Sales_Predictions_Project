@@ -10,5 +10,5 @@ This correlation plot shows the features that are most important to the model. T
 
 The linear regression model was able to predict the sale volume with a 50% accuracy whilst the randomforest tree predicted with 47% accuracy. Both scores were R squared regression matrices which which predicts the proportion of the variation in sales that is explained by features.
 
-This last 2 plots show the features that are most important to the models used. ![alt text](sales4.png) ![alt text](sales5.png)
+This last 2 plots show the features that are most important to the models used. ![alt text](sales4.png)
 
